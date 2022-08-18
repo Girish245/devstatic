@@ -1,0 +1,49 @@
+body{
+    background-color: whitesmoke;
+}
+
+
+.inp{
+    height: 50px;
+    width: 50%;
+    border-radius: 60px;
+    outline: none;
+    box-shadow: 17px 30px 40px -19px rgba(0,0,0,0.39);
+    -webkit-box-shadow: 17px 30px 40px -19px rgba(0,0,0,0.39);
+    -moz-box-shadow: 17px 30px 40px -19px rgba(0,0,0,0.39);
+}
+
+.img-fluid{
+    max-width: 67%;
+    max-height: auto;
+}
+
+.size-img{
+    max-width: 5%;
+    max-height: auto;
+}
+
+
+small {
+    background: lightblue;
+    color: black;
+    font-weight: 700;   
+}
+
+.pill-tags {
+    background-color: lightblue;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    display: inline-block;
+    margin: 4px 2px;
+    border-radius: 16px;
+  }
+
+
+.profile-img{
+
+    max-width: 40%;
+    max-height: auto;
+}
